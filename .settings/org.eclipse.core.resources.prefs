@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/tton/hrm/controller/DeptController.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/DocumentDao.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/EmployeeDao.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/NoticeDao.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/UserDao.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/provider/DocumentDynaSqlProvider.java=UTF-8
+encoding//src/main/java/org/tton/hrm/dao/provider/NoticeDynaSqlProvider.java=UTF-8
+encoding//src/main/java/org/tton/hrm/interceptor/AuthorizedInterceptor.java=UTF-8
+encoding//src/main/java/org/tton/hrm/service/impl/OvertimeServiceImpl.java=UTF-8
+encoding//src/main/java/org/tton/hrm/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/main/java/org/tton/hrm/util/tag=UTF-8
+encoding//src/main/java/org/tton/hrm/util/tag/PageModel.java=UTF-8
+encoding//src/main/java/org/tton/hrm/util/tag/PagerTag.java=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/user/user.jsp=UTF-8
+encoding//src/main/webapp/js=UTF-8
